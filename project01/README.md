@@ -42,7 +42,7 @@ The architecture for this Terraform project is illustrated below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bokal2/terraform-projects.git
+   git clone (https://github.com/shubhamniranjan78/terraform-projects)
    cd terraform-projects/project01
    ```
 
